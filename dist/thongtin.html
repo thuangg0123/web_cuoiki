@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/img/favicon.webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./output.css">
+    <title>Mizuno</title>
+</head>
+
+<body>
+    <header class="sticky">
+        <div class="flex justify-between items-center bg-[#F6F6F6] border-b-2 border-black px-3 py-2">
+            <div class="w-[100px]">
+                <a href="./index.html"><img src="./assets/img/logo.png" alt=""></a>
+            </div>
+            <div id="toggleMobile" class="lg:hidden text-3xl cursor-pointer">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+            <ul class="font-bold overflow-x-auto lg:flex hidden" id="navList">
+                <li><a href="./index.html" class="ml-5 navlink">Trang chủ</a></li>
+                <li><a href="./gioithieu.html" class="ml-5 navlink">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="ml-5 navlink">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="ml-5 navlink">Liên hệ</a></li>
+            </ul>
+        </div>
+        <!-- Nav mobile -->
+        <div id="mobileMenu"
+            class="lg:hidden absolute w-full top-0 min-h-screen left-0 right-0 bg-[#f6f6f6] border-2 border-black overflow-y-auto">
+            <div id="closeMobileInside" class="text-3xl cursor-pointer absolute top-3 right-3">
+                <i class="fa-solid fa-times"></i>
+            </div>
+            <ul class="font-bold">
+                <li><a href="./index.html" class="block py-2 px-4">Trang chủ</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="block py-2 px-4">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Liên hệ</a></li>
+            </ul>
+        </div>
+    </header>
+    <section>
+        <div class="p-3 text-sm">
+            <a href="./index.html" class="navlink">
+                <i class="fa-solid fa-house leading-8"></i>
+                Trang chủ /
+            </a>
+            <strong>Thông tin</strong>
+        </div>
+        <div class="pb-[30px]">
+            <img src="./assets/img/bannergioithieu.webp" alt="">
+        </div>
+    </section>
+    <div>
+        <div class="lg:px-40 lg:py-10 p-5">
+            <div>
+                <h1 class="text-3xl mb-3 font-bold">ĐẠI LÝ</h1>
+                <div class="grid lg:grid-cols-3 gap-5 text-sm grid-cols-2">
+                    <div class="img-hover">
+                        <img src="./assets/img/cs1.png" alt=""
+                            class="transition-transform transform-cpu hover:scale-105 duration-300 cursor-pointer">
+                        <div class="flex flex-col my-3">
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-location-dot"></i>
+                                42 Miếu Đầm, Mễ Trì, Nam Từ Liêm, Hà Nội
+                            </a>
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-phone"></i>
+                                093 3636 363636
+                            </a>
+                        </div>
+                    </div>
+                    <div class="img-hover">
+                        <img src="./assets/img/cs2.png" alt=""
+                            class="transition-transform transform-cpu hover:scale-105 duration-300 cursor-pointer">
+                        <div class="flex flex-col my-3">
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-location-dot"></i>
+                                188BIS Trần Quang Khải, Tân Định, Quận 1, TP HCM
+                            </a>
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-phone"></i>
+                                093 3636 363636
+                            </a>
+                        </div>
+                    </div>
+                    <div class="img-hover">
+                        <img src="./assets/img/cs3.png" alt=""
+                            class="transition-transform transform-cpu hover:scale-105 duration-300 cursor-pointer">
+                        <div class="flex flex-col my-3">
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-location-dot"></i>
+                                707 Đường 3 tháng 2, Phường 6, Quận 10, TP Hồ Chí Minh
+                            </a>
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-phone"></i>
+                                093 3636 363636
+                            </a>
+                        </div>
+                    </div>
+                    <div class="img-hover">
+                        <img src="./assets/img/cs4.png" alt=""
+                            class="transition-transform transform-cpu hover:scale-105 duration-300 cursor-pointer">
+                        <div class="flex flex-col my-3">
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-location-dot"></i>
+                                NPP Tiến Sport - 68A Tân Thụy - Phúc Đồng - Long Biên
+                            </a>
+                            <a href="" class="hover:underline">
+                                <i class="fa-solid fa-phone"></i>
+                                093 3636 363636
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class=" bg-white footer-shadow second-font text-sm">
+            <div class="grid sm:grid-cols-3">
+                <div class="sm:col-span-2">
+                    <div class="sm:grid sm:grid-cols-3 p-5 gap-5 flex flex-col">
+                        <div>
+                            <div>
+                                <a href=""><img src="./assets/img/ft-logo.webp" alt="" class="w-[200px] mb-5"></a>
+                            </div>
+                            <div class="flex gap-2">
+                                <i class="fa-solid fa-house leading-8"></i>
+                                <span>
+                                    <p class="mb-2 leading-8"><b>TRỤ SỞ:</b> 42 Miếu Đầm, Mễ Trì, Nam Từ Liêm, TP. Hà
+                                        Nội
+                                    </p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 1:</b> 188BIS TRẦN QUANG KHẢI, TÂN ĐỊNH,
+                                        QUẬN
+                                        1,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 2:</b> Số 707 Đường 3 tháng 2, Phường 6,
+                                        Quận
+                                        10,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>GIỜ MỞ CỬA:</b> 09:00 đến 21:00</p>
+                                </span>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-phone"></i>
+                                <a href="" class="ml-2 navlink">036 3636 3636</a>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-envelope"></i>
+                                <a href="" class="ml-2 navlink">Lienhe@nhom2.vn</a>
+                            </div>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">Dịch vụ khách hàng</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Giới thiệu</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách bảo mật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Điều khoản dịch vụ</a></li>
+                                <li class="py-2"><a href="" class="navlink">Hướng dẫn thanh toán</a></li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">NHÓM SẢN PHẨM</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm khuyến mãi</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm nổi bật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Tất cả sản phẩm</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-5 bg-[#f6f6f6] text-center text-base">
+                    <div class="pb-5 border-b border-[#ccc] mb-[30px]">
+                        <h4 class="font-bold uppercase mb-[30px]">Like MIZUNO trên mạng xã hội</h4>
+                        <div>
+                            <a href="" class="social mr-2"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="" class="social"><i class="fa-brands fa-youtube"></i></a>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="font-bold uppercase mb-[30px]">ĐĂNG KÝ NHẬN THÔNG TIN MỚI TỪ MIZUNO</h4>
+                        <form action="" method="post">
+                            <div class="relative">
+                                <input type="text" placeholder="Nhập email của bạn tại dây ...."
+                                    class="outline-none w-full p-2 text-xs border border-[#ccc]">
+                                <span class="absolute whitespace-nowrap text-white bg-black right-0 bottom-[1px]">
+                                    <button class="uppercase p-1 text-base">Đăng ký</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+<script src="./index.js"></script>
+
+</html>

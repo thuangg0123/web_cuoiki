@@ -1,0 +1,424 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "VỢT CẦU LÔNG FORTIUS 11 POWER",
+            "code": "73JTB11209",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/1.webp",
+                    "imgSecond": "./assets/img/product/s1.webp"
+                }
+            ],
+            "price": 4990000,
+            "color": "ĐEN/CAM",
+            "size": "4U",
+            "quantity": 10,
+            "description": [
+                {
+                    "des1": "FORTIUS 11 POWER là một trong những mẫu vợt cao cấp nhất của Mizuno và được sản xuất hoàn toàn tại Nhật Bản với những tiêu chuẩn rất khắt khe. Đây là mẫu vợt được nâng cấp từ mẫu vợt Fortius 10 Power trước đó và áp dụng những công nghệ cao cấp hàng đầu của Mizuno như Beyond Force System, MFusion, Torque Technology T5… giúp vợt có hiệu suất thi đấu cao và mang tới những trải nghiệm ấn tượng cho người dùng.",
+                    "des2": "FORTIUS 11 POWER có tông màu đen chủ đạo kết hợp với nhiều họa tiết màu cam, mang tới sự mạnh mẽ cho tổng thể thiết kế. Mặc dù là cây vợt thiên về tấn công nhưng với trọng lượng 4U, FORTIUS 11 POWER sẽ phù hợp với nhiều tay vợt hơn ở mọi cấp độ. Nếu bạn đang tìm kiếm một cây vợt tấn công mạnh mẽ với tốc độ cao, FORTIUS 11 POWER là sự lựa chọn hoàn hảo dành cho bạn.",
+                    "model": "73JTB11209",
+                    "textColor": "ĐEN/CAM",
+                    "length": "675MM",
+                    "weight": "4U",
+                    "perimeter": "G6",
+                    "stiffness": "CỨNG",
+                    "headWeight": "5/5",
+                    "pound": "<12KG",
+                    "material": "Highly Elastic Graphite",
+                    "technology1": "MFUSION: Một vật liệu carbon mới được phát triển, giúp cho thân vợt nhẹ nhưng vẫn đảm bảo độ bền. Trong thiết kế thân vợt, nếu dùng vật liệu nhẹ thì sẽ không đủ bền để truyền tải năng lượng. Mizuno đã cải thiện liên kết hoá học giữa các sợi Carbon và nhựa ở quy mô nano.",
+                    "technology2": "AERO GROOVE: Thiết kế rãnh vợt độc đáo giúp giảm khối lượng, tăng độ bền cho khung và giảm xô cước trong quá trình chơi.  ",
+                    "technology3": "BEYOND FORCE SYSTEM: Bằng cách sử dụng những vật liêu nặng như Vonfram phân bố lên một số vùng nhất định để giúp cho trọng lượng vợt phân bổ chủ yếu ở phần trung tâm, tạo ra sự linh hoạt mà vẫn giữ được những cú đập mạnh, uy lực.",
+                    "technology4": "TORQUE TECHNOLOGY T5: Truyền tải tối đa năng lượng từ người chơi đến quả cầu, giúp cho những cú đánh cầu trên không trở nên dễ dàng và mang hiệu suất cao hơn. Torque mang lại những cú đánh cầu trên không hiệu quả hơn 40% so với các dòng vợt khác.",
+                    "feature": "Với trọng lượng 4U, thân vợt cứng và đầu vợt nặng, FORTIUS 11 POWER là một cây vợt tấn công đúng nghĩa, mang tới những cú đập uy lực và những cú đánh nhanh, mạnh. FORTIUS 11 POWER phù hợp cho những người chơi có nền tảng kĩ thuật tốt, có lực tay khá và sử dụng tốt cho cả đánh đôi và đánh đơn. Bên cạnh đó, với những công nghệ hàng đầu được áp dụng, chắc chắn FORTIUS 11 POWER sẽ mang tới những trải nghiệm ấn tượng khi sử dụng. "
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "VỢT CẦU LÔNG FORTIUS 11 QUICK",
+            "code": "73JTB11109",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/2.webp",
+                    "imgSecond": "./assets/img/product/s2.webp"
+                }
+            ],
+            "price": 4990000,
+            "color": "ĐEN",
+            "size": "4U",
+            "quantity": 11,
+            "description": [
+                {
+                    "des1": "FORTIUS 11 QUICK là một trong những mẫu vợt cao cấp nhất của Mizuno và được sản xuất hoàn toàn tại Nhật Bản với những tiêu chuẩn rất khắt khe. Đây là mẫu vợt được nâng cấp từ mẫu vợt Fortius 10 Quick trước đó và áp dụng những công nghệ cao cấp hàng đầu của Mizuno như Beyond Force System, MFusion, Torque Technology T5… giúp vợt có hiệu suất thi đấu cao và mang tới những trải nghiệm ấn tượng cho người dùng.",
+                    "des2": "FORTIUS 11 QUICK có tông màu đen chủ đạo kết hợp với nhiều họa tiết màu tím, trắng, mang tới sự tinh tế và thanh thoát cho tổng thể thiết kế. Đúng như tên gọi, FORTIUS 11 QUICK là cây vợt thiên về tốc độ và linh hoạt, giúp người chơi xoay sở nhanh trong mọi tình huống. Bên cạnh đó, với trọng lượng 4U, FORTIUS 11 QUICK sẽ phù hợp với nhiều tay vợt ở mọi cấp độ. Nếu bạn đang tìm kiếm một cây vợt nhanh, linh hoạt và chắc chắn thì không thể bỏ qua FORTIUS 11 QUICK.",
+                    "model": "73JTB11109",
+                    "textColor": "ĐEN",
+                    "length": "675MM",
+                    "weight": "4U",
+                    "perimeter": "G6",
+                    "stiffness": "CỨNG",
+                    "headWeight": "5/5",
+                    "pound": "<12KG",
+                    "material": "Highly Elastic Graphite",
+                    "technology1": "MFUSION: Một vật liệu carbon mới được phát triển, giúp cho thân vợt nhẹ nhưng vẫn đảm bảo độ bền. Trong thiết kế thân vợt, nếu dùng vật liệu nhẹ thì sẽ không đủ bền để truyền tải năng lượng. Mizuno đã cải thiện liên kết hoá học giữa các sợi Carbon và nhựa ở quy mô nano.",
+                    "technology2": "AERO GROOVE: Thiết kế rãnh vợt độc đáo giúp giảm khối lượng, tăng độ bền cho khung và giảm xô cước trong quá trình chơi.  ",
+                    "technology3": "BEYOND FORCE SYSTEM: Bằng cách sử dụng những vật liêu nặng như Vonfram phân bố lên một số vùng nhất định để giúp cho trọng lượng vợt phân bổ chủ yếu ở phần trung tâm, tạo ra sự linh hoạt mà vẫn giữ được những cú đập mạnh, uy lực.",
+                    "technology4": "TORQUE TECHNOLOGY T5: Truyền tải tối đa năng lượng từ người chơi đến quả cầu, giúp cho những cú đánh cầu trên không trở nên dễ dàng và mang hiệu suất cao hơn. Torque mang lại những cú đánh cầu trên không hiệu quả hơn 40% so với các dòng vợt khác.",
+                    "feature": "Với trọng lượng 4U, thân vợt cứng và đầu vợt hơi nặng, FORTIUS 11 QUICK là một cây vợt thiên về tốc độ, tấn công nhanh, mang tới những cú đập tốt và khả năng xoay sở linh hoạt. FORTIUS 11 QUICK phù hợp cho những người chơi có nền tảng kĩ thuật tốt, có lực tay khá và sử dụng tốt cho cả đánh đôi và đánh đơn. Bên cạnh đó, với những công nghệ hàng đầu được áp dụng, chắc chắn FORTIUS 11 QUICK sẽ mang tới những trải nghiệm ấn tượng khi sử dụng."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "VỢT CẦU LÔNG JPX RESERVE EDITION",
+            "code": "MZ-BF2183",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/3.webp",
+                    "imgSecond": "./assets/img/product/s3.webp"
+                }
+            ],
+            "price": 4990000,
+            "color": "ĐEN/BẠC/VÀNG",
+            "size": "3U",
+            "quantity": 5,
+            "description": [
+                {
+                    "des1": "JPX là dòng vợt có rất nhiều mẫu vợt ở các phân khúc cùng với đó là những cái tên đã tạo nên tiếng vang như JPX Limited Edition, JPX CX Edition, JPX V-Edition…",
+                    "des2": "Đây là mẫu vợt lần đầu tiên được Mizuno áp dụng công nghệ mới PBO – một loại vật liệu bền bỉ gấp 10 lần thép và gấp 2 lần Aramid (vật liệu chuyên dùng để làm găng tay và áo cứu hỏa, chịu nhiệt lên tới 400°C). ",
+                    "model": "MZ-BF2183",
+                    "textColor": "ĐEN/BẠC/VÀNG",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "CỨNG",
+                    "headWeight": "4/5",
+                    "pound": "<12KG",
+                    "material": "Highly Elastic Graphite",
+                    "technology1": "PBO FORTIFIED: Loại sợi nhựa nhiệt dẻo đặc biệt, bền gấp đôi so với sợi Aramid (dùng để làm áo và găng tay lính cứu hỏa, chịu nhiệt độ 400°C) và mạnh gấp 10 lần so với thép, độ ổn định nhiệt và hóa học đặc biệt cao, khiến nó trở thành sợi hữu cơ nhân tạo mạnh nhất.",
+                    "technology2": "COMBIFRAME: Sự kết hợp giữa hai dạng kết cấu Box Frame và Aero Hexagram giúp tạo ra những cú đánh rất nhanh và mạnh mẽ.",
+                    "technology3": "AERO HEXAGRAM: Khung vợt có hình dạng giống ngôi sao sáu cánh với các góc bằng nhau làm giảm sức cản không khí tối đa, tăng cường lực đẩy cầu trong các tình huống đánh cầu nhanh như chớp và những pha cầu đôi công nhanh ở đẳng cấp cao.",
+                    "technology4": "3D POWER MATRIX: Quy trình sản xuất độc đáo các sợi composite liên kết chồng chéo theo dạng dệt trên khung vợt tạo nên cấu trúc có độ đàn hồi cao. ",
+                    "feature": "Với thân vợt cứng và đầu vợt nặng, JPX RESERVE EDITION thích hợp với những người chơi có lực tay tốt, có nền tảng kĩ thuật vững vàng và có lối chơi thiên về sức mạnh với những pha tấn công nhanh, uy lực. "
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "VỢT CẦU LÔNG FORTIUS 27 PRIMA",
+            "code": "MZ-BF2248",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/4.webp",
+                    "imgSecond": "./assets/img/product/s4.webp"
+                }
+            ],
+            "price": 4165000,
+            "color": "ĐEN/XANH/VÀNG",
+            "size": "4U",
+            "quantity": 8,
+            "description": [
+                {
+                    "des1": "Fortius là dòng vợt thiên về hiệu suất thi đấu cao, các cây vơt Fortius mới nhất đang ngày càng phù hợp hơn với các tay vợt phong trào và FORTIUS 27 PRIMA là một điển hình. Vợt có thông số rất dễ dàng làm quen với trọng lượng 4U và thân vợt dẻo. Điểm đặc biệt của FORTIUS 27 PRIMA là công nghệ mới Anti-Torsion mang tới khả năng kiểm soát cầu và độ chính xác cao hơn trong các cú đánh.",
+                    "des2": "Bên cạnh đó, FORTIUS 27 PRIMA còn được hỗ trợ bởi rất nhiều công nghệ như Hot Melt Tech, Foam Shaft, Revolutionary Titanium T-Joint… giúp vợt đạt hiệu suất thi đấu rất cao, toàn diện, đồng thời có một độ bền vô cùng ấn tượng. ",
+                    "model": "MZ-BF2248",
+                    "textColor": "ĐEN/XANH/VÀNG",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "DẺO",
+                    "headWeight": "4/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "REVOLUTIONARY TITANIUM T-JOINT: Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology2": "ANTI-TORSION: Cấu trúc dạng chiếc cầu 2 điểm ở khu vực chữ T của vợt, chống vặn xoắn tốt hơn đồng thời mang tới khả năng kiểm soát cầu và nâng cao độ chính xác trong các cú đánh.",
+                    "technology3": "FOAM SHAFT: Việc sử dụng đệm Foam ở thân vợt sẽ giúp hấp thụ sốc tốt hơn, đồng thời giảm rung cho vợt, nâng cao khả năng kiểm soát trong các pha cầu tốc độ cao.",
+                    "technology4": "INNER CONCAVE FRAME: Khung vợt có cấu trúc lõm bên trong, cho sợi cước kéo dài hơn trên khung vợt, tạo điểm đánh thuận lợi “Sweetspot” lớn hơn và tăng tốc độ đẩy cầu.",
+                    "feature": "Với thông số trọng lượng 4U, thân vợt dẻo và đầu vợt hơi nặng, trên mức cân bằng một chút, FORTIUS 27 PRIMA khá dễ dàng làm quen, thích hợp cho các tay vợt có lực tay trung bình. Với thông số này, FORTIUS 27 PRIMA rất toàn diện, có thể chơi tốt cả đơn và đôi. Được áp dụng rất nhiều công nghệ cao cấp, mỗi cú chạm cầu trên FORTIUS 27 PRIMA đều mang lại trải nghiệm ấn tượng. Các bạn hãy cùng trải nghiệm nhé!"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "VỢT CẦU LÔNG FORTIUS 29 ULTIMA",
+            "code": "MZ-BF2249",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/5.webp",
+                    "imgSecond": "./assets/img/product/s5.webp"
+                }
+            ],
+            "price": 3825000,
+            "color": "ĐEN/TÍM/CAM",
+            "size": "5U",
+            "quantity": 15,
+            "description": [
+                {
+                    "des1": "Fortius là dòng vợt thiên về hiệu suất thi đấu cao, các cây vơt Fortius mới nhất đang ngày càng phù hợp hơn với các tay vợt phong trào và FORTIUS 29 ULTIMA cũng không phải ngoại lệ. Vợt có thông số rất dễ dàng làm quen với trọng lượng 5U, thân vợt cứng và đầu vợt ở mức độ cân bằng. Điểm nhấn của FORTIUS 29 ULTIMA là được áp dụng rất nhiều công nghệ cao cấp như Slim Shaft giúp cải thiện tốc độ vợt trong khi khớp chữ T được gia cố Titanium mang tới sự ổn định tuyệt vời.",
+                    "des2": "Dù có trọng lượng nhẹ nhưng khung vợt của FORTIUS 29 ULTIMA là dạng Aerobox kết hợp AeroDelta giúp vợt đạt hiệu suất thi đấu rất cao, toàn diện, vừa tốc độ vừa có sức mạnh đồng thời có một độ bền cũng rất ấn tượng.",
+                    "model": "MZ-BF2249",
+                    "textColor": "ĐEN/TÍM/CAM",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "DẺO",
+                    "headWeight": "4/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "REVOLUTIONARY TITANIUM T-JOINT: Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology2": "AEROBOX: Ngoài việc giữ được tính năng cung cấp độ bền và sự ổn định về cấu trúc cho mặt vợt trong các cú đập mạnh, Aerobox còn giảm được sức cản của không khí và làm tăng tốc độ vung vợt.",
+                    "technology3": "AERODELTA: Các góc cạnh của khung vợt có hình dạng đá quý độc đáo, làm giảm lực cản không khí, gia tăng tốc độ và sức mạnh trong mỗi cú đánh.",
+                    "technology4": "AEROGROOVE: Thiết kế rãnh vợt độc đáo giúp giảm khối lượng, tăng độ bền cho khung và giảm xô cước trong quá trình chơi.",
+                    "feature": "Với thông số trọng lượng 5U, thân vợt cứng và đầu vợt cân bằng, FORTIUS 29 ULTIMA khá dễ dàng làm quen, thích hợp cho các tay vợt có lực tay trung bình. Với thông số này, FORTIUS 29 ULTIMA rất toàn diện, có thể chơi tốt cả đơn, đôi và thiên về lối chơi tốc độ, tấn công chớp nhoáng. Được áp dụng rất nhiều công nghệ cao cấp, mỗi cú chạm cầu trên FORTIUS 29 ULTIMA đều mang lại trải nghiệm ấn tượng. Các bạn hãy cùng trải nghiệm nhé!"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "VỢT CẦU LÔNG ALTIUS 09 VIVA",
+            "code": "MZ-BF2250",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/6.webp",
+                    "imgSecond": "./assets/img/product/s6.webp"
+                }
+            ],
+            "price": 3825000,
+            "color": "ĐEN/GHI/XANH",
+            "size": "5U",
+            "quantity": 18,
+            "description": [
+                {
+                    "des1": "Altius là dòng vợt thiên về hỗ trợ kiểm soát cầu và thường được các tay vợt có lối chơi khéo léo, điều cầu lựa chọn trong vài năm trở lại đây. Tuy nhiên với cây vợt ALTIUS 09 VIVA mới thì còn mang tới khả năng tấn công nhanh ấn tượng. Để có được điều này, ALTIUS 09 VIVA được điều chỉnh tăng độ nặng đầu và áp dụng các công nghệ cao cấp, giúp vợt bền bỉ và chắc chắn hơn khi thực hiện những cú đánh nhiều sức mạnh",
+                    "des2": "Nếu bạn là người chơi có lối chơi công thủ toàn diện và mong muốn có những cú dứt điểm nhanh, chính xác, chắc chắn không thể bỏ qua ALTIUS 09 VIVA. ",
+                    "model": "MZ-BF2250",
+                    "textColor": "ĐEN/GHI/XANH",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "TRUNG BÌNH",
+                    "headWeight": "5/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "AERODELTA: Khung vợt dạng AeroDelta có rãnh độc đáo, giảm lực cản không khí, gia tăng tốc độ và sức mạnh trong mỗi cú đánh.",
+                    "technology2": "REVOLUTIONARY TITANIUM T-JOINT: Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology3": "HOT MELT TECH: Các tấm carbon được nung ở nhiệt độ cao hơn để loại bỏ các tạp chất trong quá trình sản xuất ban đầu. Điều này tạo nên một lớp phủ mịn hơn, tăng cường độ bền của khung và tăng cường tính khí động học, góp phần tăng tốc độ chung của vợt.",
+                    "technology4": "RAPID RESPONSE SYSTEM: Hệ thống đặc biệt này mang tới sức mạnh bùng nổ và tốc độ cho từng cú đánh thông qua việc điều chỉnh điểm “kick-point” trên thân vợt, giúp thân vợt phản hồi rất nhanh, tăng tính linh hoạt trong thi đấu. ",
+                    "feature": "Với thông số trọng lượng 5U, thân vợt cứng trung bình và đầu vợt nặng, ALTIUS 09 VIVA thích hợp cho các tay vợt có lực tay trung bình trở lên và có nền tảng kĩ thuật tốt. Mặc dù là cây vợt cứng và nặng đầu tuy nhiên trọng lượng vợt nhẹ dễ dàng xoay sở trong các tình huống cầu nhanh. Bên cạnh đó, những đặc trưng của dòng Altius đó là kiểm soát và điều cầu rất tốt vẫn xuất hiện đầy đủ trên ALTIUS 09 VIVA, giúp vợt trở nên toàn diện hơn rất nhiều. Được làm từ những vật liệu cao cấp và áp dụng những công nghệ hiện đại, mỗi cú chạm cầu trên ALTIUS 09 VIVA đều mang lại trải nghiệm ấn tượng. Các bạn hãy cùng trải nghiệm nhé!"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "VỢT CẦU LÔNG PROTOTYPE X-1.1",
+            "code": "MZ-BF2144",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/7.webp",
+                    "imgSecond": "./assets/img/product/s7.webp"
+                }
+            ],
+            "price": 3825000,
+            "color": "ĐEN/BẠC/XANH",
+            "size": "5U",
+            "quantity": 8,
+            "description": [
+                {
+                    "des1": "Prototype X-1.1 là dòng vợt có cấu trúc dạng sóng rất đặc biệt trên khung vợt, hỗ trợ lực tốt trong các cú đánh.",
+                    "des2": "Vợt có trọng lượng nhẹ, đầu vợt cân bằng và có tốc độ bung cầu rất nhanh phù hợp với anh em ưa thích đánh đôi với lối chơi nhanh và phòng ngự rất tốt. Thân vợt ở mức trung bình, khi vung vợt có cảm giác thanh thoát rất rõ.",
+                    "model": "MZ-BF2144",
+                    "textColor": "ĐEN/BẠC/XANH",
+                    "length": "675MM",
+                    "weight": "4U",
+                    "perimeter": "G5",
+                    "stiffness": "TRUNG BÌNH",
+                    "headWeight": "3/5",
+                    "pound": "<13.5KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "Engineered Elevated-Ridges",
+                    "technology2": "REVOLUTIONARY TITANIUM T-JOINT: Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology3": "HOT MELT TECH: Các tấm carbon được nung ở nhiệt độ cao hơn để loại bỏ các tạp chất trong quá trình sản xuất ban đầu. Điều này tạo nên một lớp phủ mịn hơn, tăng cường độ bền của khung và tăng cường tính khí động học, góp phần tăng tốc độ chung của vợt.",
+                    "technology4": "RAPID RESPONSE SYSTEM: Hệ thống đặc biệt này mang tới sức mạnh bùng nổ và tốc độ cho từng cú đánh thông qua việc điều chỉnh điểm “kick-point” trên thân vợt, giúp thân vợt phản hồi rất nhanh, tăng tính linh hoạt trong thi đấu. ",
+                    "feature": "Với thông số trọng lượng 5U, thân vợt cứng trung bình và đầu vợt nặng, PROTOTYPE X-1.1 thích hợp cho các tay vợt có lực tay trung bình trở lên và có nền tảng kĩ thuật tốt. Mặc dù là cây vợt cứng và nặng đầu tuy nhiên trọng lượng vợt nhẹ dễ dàng xoay sở trong các tình huống cầu nhanh. Bên cạnh đó, những đặc trưng của dòng Altius đó là kiểm soát và điều cầu rất tốt vẫn xuất hiện đầy đủ trên ALTIUS 09 VIVA, giúp vợt trở nên toàn diện hơn rất nhiều. Được làm từ những vật liệu cao cấp và áp dụng những công nghệ hiện đại, mỗi cú chạm cầu trên PROTOTYPE X-1.1 đều mang lại trải nghiệm ấn tượng. Các bạn hãy cùng trải nghiệm nhé!"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "VỢT CẦU LÔNG FORTIUS 30 CONTROL",
+            "code": "MZ-BF2136",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/8.webp",
+                    "imgSecond": "./assets/img/product/s8.webp"
+                }
+            ],
+            "price": 3825000,
+            "color": "ĐEN/XANH",
+            "size": "5U",
+            "quantity": 9,
+            "description": [
+                {
+                    "des1": "Thuộc dòng vợt Fortius cao cấp hội tụ hầu hết các công nghệ tốt nhất của Mizuno, FORTIUS 30 CONTROL thiên về sức mạnh và tốc độ, chuyên dụng cho đánh đôi với những pha gài cầu đẳng cấp. Công nghệ Rapid Response System giúp khả năng hấp thụ rung tốt hơn, mang lại những cú bỏ nhỏ, phản tạt, chụp lưới cực kì chính xác. Đặc biệt, thiết kế T-Joint làm gia tăng sự ổn định trong quá trình sử dụng. Vợt có tông màu đen chủ đạo kết hợp với các hoa văn nổi màu xanh chuối trông rất bắt mắt và nổi bật.",
+                    "des2": "Nếu bạn đang tìm một cây vợt cân bằng và thiên về kiểm soát, FORTIUS 30 CONTROL chắc chắn là sự lựa chọn hoàn hảo dành cho bạn.",
+                    "model": "MZ-BF2136",
+                    "textColor": "ĐEN/XANH",
+                    "length": "675MM",
+                    "weight": "4U",
+                    "perimeter": "G5",
+                    "stiffness": "TRUNG BÌNH",
+                    "headWeight": "3/5",
+                    "pound": "<13KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "High Foam System: Bọt EVA được đúc bên trong khung giúp hấp thụ lực khi va chạm tốt hơn, gia tăng tuổi thọ mà không làm giảm sự linh hoạt và tốc độ đầu vợt.",
+                    "technology2": "Intensified T-Joint: Trục T được đưa trực tiếp vào khung, cho phép khung phục hồi nhanh hơn sau khi chạm cầu. Đũa và khung được kết nối chắc chắn với nhau, giúp vợt phục hồi nhanh hơn sau mỗi cú đánh và dễ dàng tung ra cú đánh tiếp theo một cách mạnh mẽ.",
+                    "technology3": "Aerogroove: Thiết kế rãnh vợt độc đáo giúp giảm khối lượng, tăng độ bền cho khung và giảm xô cước trong quá trình chơi.",
+                    "technology4": "Rapid Response System: Công nghệ hiệu chỉnh chính xác vị trí của mũ chụp, cán và đũa vợt nhằm cung cấp sức mạnh tối đa cho mỗi cú đánh, đồng thời giảm rung để cú đánh tiếp theo vẫn mạnh và chính xác. ",
+                    "feature": "Là cây vợt cân bằng, FORTIUS 30 CONTROL có trọng lượng 4U, thân đũa không quá cứng nên rất dễ chơi và dễ làm chủ. Thuộc dòng Fortius cao cấp nên vợt trợ lực rất tốt, giúp người chơi có những pha cầu chính xác và đầy uy lực. FORTIUS 30 CONTROL phù hợp với VĐV có lực tay trung bình, lối đánh kiểm soát và công thủ toàn diện."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "VỢT CẦU LÔNG FORTIUS 30 POWER",
+            "code": "MZ-BF2135",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/9.webp",
+                    "imgSecond": "./assets/img/product/s9.webp"
+                }
+            ],
+            "price": 3740000,
+            "color": "ĐEN/XANH",
+            "size": "5U",
+            "quantity": 5,
+            "description": [
+                {
+                    "des1": "Cấu tạo: Vợt có tông màu đen chủ đạo kết hợp với các hoa văn nổi màu xanh dương trông rất bắt mắt, mãnh mẽ, quyết liệt. Nước sơn được sơn bằng công nghệ tĩnh điện và mạ khiến cho cây vợt rất bóng, mịn. T-Joint của vợt được thiết kết đặc biệt cho sự ổn định trong quá trình sử dụng. Gen cao su cao cấp bền với lực căng lớn đảm bảo vợt không bị lún nứt.",
+                    "des2": "Tính năng: FORTIUS 30 POWER là dòng vợt cao cấp hội tụ tất cả các công nghệ tốt nhất của Mizuno. Vợt mang lại những cú đập cầu tấn công uy lực và cực kỳ chính xác, những cú tạc cầu tốc độ và đủ nặng để kết thúc đối phương nhanh chóng. Ngoài ra vợt còn rất linh hoạt, phù hợp cho các VĐV chuyên đánh đôi ở vị trí chủ công.",
+                    "model": "MZ-BF2135",
+                    "textColor": "ĐEN/XANH",
+                    "length": "675MM",
+                    "weight": "4U",
+                    "perimeter": "G5",
+                    "stiffness": "CỨNG",
+                    "headWeight": "NẶNG ĐẦU",
+                    "pound": "<14KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "BOX FRAME: Là thiết kế khung vợt đơn giản, cổ điển nhưng mang lại độ bền cao cho khung vợt. Cung cấp sự ổn định về cấu trúc cho mặt vợt, giúp ổn định mặt vợt trong các cú đập mạnh.",
+                    "technology2": "XTRA SLIM SHAFT: Trục Xtra Slim làm giảm lực cản và cho phép vợt có độ phản hồi cao. Độ dày của trục làm giảm trọng lượng vợt tổng thể và do đó tạo ra những cú đập tốc độ cao một cách dễ dàng.",
+                    "technology3": "HOT MELT TECH: Các tấm than chì được nung nóng ở nhiệt độ cao hơn để loại bỏ thêm các tạp chất trong quá trình sản xuất ban đầu. Điều này dẫn đến một lớp phủ phù hợp mượt mà hơn, không chỉ tăng cường khung mà còn tăng cường tính khí động học của than chì do đó làm tăng vận tốc của vợt.",
+                    "technology4": "HIGHT FOAM SYSTEM FRAME: Bọt EVA được đúc bên trong khung, Giúp Khung hấp thụ lực khi va chạm tốt hơn, tăng tuổi thọ khung mà không àm giảm sự linh hoạt và cung cấp nhiều năng lượng khi vung vợt.",
+                    "feature": "FORTIUS 30 POWER là dòng vợt cao cấp hội tụ tất cả các công nghệ tốt nhất của Mizuno. Vợt mang lại những cú đập cầu tấn công uy lực và cực kỳ chính xác, những cú tạc cầu tốc độ và đủ nặng để kết thúc đối phương nhanh chóng. Ngoài ra vợt còn rất linh hoạt, phù hợp cho các VĐV chuyên đánh đôi ở vị trí chủ công."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "VỢT CẦU LÔNG XYST-02",
+            "code": "MZ-BF2083",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/10.webp",
+                    "imgSecond": "./assets/img/product/s10.webp"
+                }
+            ],
+            "price": 3570000,
+            "color": "XÁM/XANH",
+            "size": "5U",
+            "quantity": 10,
+            "description": [
+                {
+                    "des1": "Dòng vợt XYST là một trong những dòng vợt cao cấp và rất toàn diện trong khả năng tấn công lẫn phòng thủ. Nếu như XYST 01 là cây vợt cân bằng với khả năng kiểm soát linh hoạt thì sang tới phiên bản XYST 02, Mizuno đã điều chỉnh thông số để mang đến cho người chơi khả năng tấn công mạnh mẽ với tốc độ cầu cao. Bên cạnh đó, là dòng vợt cao cấp nên XYST 02 được áp dụng những công nghệ hàng đầu Mizuno như AeroDelta, Hot Melt Tech, Revolutionary Titanium T-Joint… để đem đến những trải nghiệm ấn tượng nhất cho người chơi. nhưng ",
+                    "des2": "Nếu bạn đang tìm kiếm một cây vợt có khả năng tấn công mạnh mẽ vẫn giữ được khả năng kiểm soát tốt, XYST 02 là sự lựa chọn tuyệt vời dành cho bạn",
+                    "model": "MZ-BF2083",
+                    "textColor": "XÁM/XANH",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "CỨNG",
+                    "headWeight": "NẶNG ĐẦU 4/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "REVOLUTIONARY TITANIUM T-JOINT:Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology2": "AERODELTA: Các góc cạnh của khung vợt có hình dạng đá quý độc đáo, làm giảm lực cản không khí, gia tăng tốc độ và sức mạnh trong mỗi cú đánh.",
+                    "technology3": "MUSCLE WAVE: Mặt ngoài của khung được thiết kế gợn sóng, kết hợp với gen vợt mềm giúp cước ôm sát vào khung, từ đó hấp thụ rung từ cước và tăng cảm giác cầu.",
+                    "technology4": "HOT MELT TECH: Các tấm carbon được nung ở nhiệt độ cao hơn để loại bỏ các tạp chất trong quá trình sản xuất ban đầu. Tạo nên một lớp phủ mịn hơn, tăng cường độ bền của khung và tăng cường tính khí động học, góp phần tăng tốc độ chung của vợt.",
+                    "feature": "Với trọng lượng 3U, thân vợt cứng và đầu vợt nặng, XYST 02 phù hợp với lối đánh thiên về tấn công mạnh mẽ kết hợp với tốc độ vung vợt cao, tạo ra những cú smash uy lực, gây áp đảo cho mọi đối thủ. XYST 02 phù hợp hơn cho các nội dung đánh đôi với những người chơi có nền tảng kĩ thuật, lực tay khá, tốt. "
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "VỢT CẦU LÔNG PROTOTYPE X-3 MIZUNO",
+            "code": "MZ-BF2190",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/11.webp",
+                    "imgSecond": "./assets/img/product/s11.webp"
+                }
+            ],
+            "price": 3468000,
+            "color": "ĐEN/BẠC/XANH",
+            "size": "5U",
+            "quantity": 4,
+            "description": [
+                {
+                    "des1": "Dòng vợt Prototype luôn mang tới sự bất ngờ và thú vị cho người chơi với những kết cấu hết sức độc đáo như khung vợt dạng sóng trên Prototype X-1, X-2, X-1.1. Với mẫu vợt mới nhất PROTOTYPE X-3, Mizuno tiếp tục mang tới một kết cấu đặc biệt, đó là khung vợt dạng kim cương “Diamond V-Frame",
+                    "des2": "Cấu trúc này giúp khung vợt bền vững và chắc chắn hơn, bên cạnh đó PROTOTYPE X-3 cũng là mẫu vợt đầu tiên của dòng Prototype được trang bị công nghệ High Foam System, giúp vợt chống rung tốt hơn và tăng lực hơn cho từng cú đánh.",
+                    "model": "MZ-BF2190",
+                    "textColor": "ĐEN/BẠC/XANH",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "TRUNG BÌNH",
+                    "headWeight": "NẶNG ĐẦU 5/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "HIGH FOAM SYSTEM: Bằng cách sử dụng công nghệ đúc đặc biệt, lớp đệm EVA được khéo léo đặt vào bên trong mang lại sự bền bỉ cho khung vợt. Bên cạnh đó, kết cấu này giúp vợt chống rung tốt hơn và tăng lực hơn cho từng cú đánh.",
+                    "technology2": "NANO PEF: Một chất liệu siêu nhẹ có thể nổi trên mặt nước, thân vợt được làm bằng chất liệu này có tác dụng giảm rung tối đa khi đánh cầu.",
+                    "technology3": "MUSCLE WAVE: Mặt ngoài của khung được thiết kế gợn sóng, kết hợp với gen vợt mềm giúp cước ôm sát vào khung, từ đó hấp thụ rung từ cước và tăng cảm giác cầu.",
+                    "technology4": "HOT MELT TECH: Các tấm carbon được nung ở nhiệt độ cao hơn để loại bỏ các tạp chất trong quá trình sản xuất ban đầu. Tạo nên một lớp phủ mịn hơn, tăng cường độ bền của khung và tăng cường tính khí động học, góp phần tăng tốc độ chung của vợt.",
+                    "feature": "Với thông số trọng lượng 4U, thân vợt cứng trung bình và đầu vợt nặng, PROTOTYPE X-3 rất thích hợp cho những người chơi có lực tay trung bình khá trở lên, mong muốn có một cây vợt tấn công tốt nhưng vẫn giữ được sự linh hoạt, ổn định."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "VỢT CẦU LÔNG ALTIUS 05 VIGOR MIZUNO",
+            "code": "MZ-BF2179",
+            "imageProduct": [
+                {
+                    "imgMain": "./assets/img/product/12.webp",
+                    "imgSecond": "./assets/img/product/s12.webp"
+                }
+            ],
+            "price": 3391000,
+            "color": "XÁM/BẠC/CAM",
+            "size": "4U",
+            "quantity": 1,
+            "description": [
+                {
+                    "des1": "Altius là dòng vợt mới của Mizuno, hỗ trợ kiểm soát cầu tốt và thường được các tay vợt có lối chơi khéo léo, thiên về điều cầu lựa chọn trong vài năm trở lại đây. Tuy nhiên với cây vợt ALTIUS 05 VIGOR mới thì còn mang tới sức tấn công uy lực, dũng mãnh. Để có được điều này, ALTIUS 05 VIGOR được điều chỉnh tăng độ nặng đầu và áp dụng công nghệ Reinforced Frame, giúp vợt bền bỉ và chắc chắn hơn khi thực hiện những cú đánh nhiều sức mạnh.",
+                    "des2": "Nếu bạn là người chơi có lối chơi công thủ toàn diện và mong muốn có những cú dứt điểm chính xác, uy lực, chắc chắn không thể bỏ qua ALTIUS 05 VIGOR.",
+                    "model": "MZ-BF2179",
+                    "textColor": "XÁM/BẠC/CAM",
+                    "length": "675MM",
+                    "weight": "3U",
+                    "perimeter": "G5",
+                    "stiffness": "CỨNG",
+                    "headWeight": "NẶNG ĐẦU 5/5",
+                    "pound": "<12KG",
+                    "material": "JAPAN HMG T46",
+                    "technology1": "REVOLUTIONARY TITANIUM T-JOINT: Vật liệu Titan được áp dụng tại khu vực chữ T để gia tăng tính bền vững, giảm các tác động xoắn ở cả khung vợt và thân vợt, mang lại tính thống nhất cao cho cả cây vợt. Công nghệ này cũng góp phần giúp vợt có độ ổn định và kiểm soát tốt hơn.",
+                    "technology2": "HOT MELT TECH: Các tấm carbon được nung ở nhiệt độ cao hơn để loại bỏ các tạp chất trong quá trình sản xuất ban đầu. Điều này tạo nên một lớp phủ mịn hơn, tăng cường độ bền của khung và tăng cường tính khí động học, góp phần tăng tốc độ chung của vợt.",
+                    "technology3": "SLIM SHAFT: Thân vợt nhỏ hơn các vợt thông thường giúp giảm lực cản, cho khả năng đàn hồi cao hơn. Ngoài ra còn làm giảm trọng lượng tổng thể của vợt, tăng khả năng linh hoạt.",
+                    "technology4": "REINFORCED FRAME: Các đường gờ nổi được gia cố trên khung vợt, tăng độ nặng đầu hỗ trợ các cú đánh tấn công mạnh hơn, ngoài ra các điểm gờ này cũng giúp gia tăng độ bền cho khung vợt.",
+                    "feature": "Với thông số trọng lượng 4U, thân vợt cứng và đầu vợt nặng, ALTIUS 05 VIGOR thích hợp cho các tay vợt có lực tay khá và có nền tảng kĩ thuật tốt. Mặc dù là cây vợt thiên về tấn công và sức mạnh, tuy nhiên vợt vẫn giữ được những đặc trưng của dòng Altius đó là kiểm soát và điều cầu rất tốt, giúp vợt trở nên toàn diện hơn rất nhiều. Được làm từ những vật liệu cao cấp, mỗi cú chạm cầu trên ALTIUS 05 VIGOR đều mang lại trải nghiệm ấn tượng. Các bạn hãy cùng thử nhé!"
+                }
+            ]
+        }
+    ]
+}

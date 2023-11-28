@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/img/favicon.webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./output.css">
+    <title>Mizuno</title>
+</head>
+
+<body>
+    <header class="sticky">
+        <div class="flex justify-between items-center bg-[#F6F6F6] border-b-2 border-black px-3 py-2">
+            <div class="w-[100px]">
+                <a href="./index.html"><img src="./assets/img/logo.png" alt=""></a>
+            </div>
+            <div id="toggleMobile" class="lg:hidden text-3xl cursor-pointer">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+            <ul class="font-bold overflow-x-auto lg:flex hidden" id="navList">
+                <li><a href="./index.html" class="ml-5 navlink">Trang chủ</a></li>
+                <li><a href="./gioithieu.html" class="ml-5 navlink">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="ml-5 navlink">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="ml-5 navlink">Liên hệ</a></li>
+            </ul>
+        </div>
+        <!-- Nav mobile -->
+        <div id="mobileMenu"
+            class="lg:hidden absolute top-0 min-h-screen left-0 right-0 bg-[#f6f6f6] border-2 border-black z-100 overflow-y-auto">
+            <div id="closeMobileInside" class="text-3xl cursor-pointer absolute top-3 right-3">
+                <i class="fa-solid fa-times"></i>
+            </div>
+            <ul class="font-bold">
+                <li><a href="./index.html" class="block py-2 px-4">Trang chủ</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="block py-2 px-4">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Liên hệ</a></li>
+            </ul>
+        </div>
+    </header>
+    <section>
+        <div class="p-3 text-sm">
+            <a href="./index.html" class="navlink">
+                <i class="fa-solid fa-house leading-8"></i>
+                Trang chủ /
+            </a>
+            <a href="" class="navlink">Vợt cầu lông / </a>
+            <strong class="product-name-heading"></strong>
+        </div>
+    </section>
+    <div>
+        <div class="grid lg:grid-cols-2 grid-cols-1 py-10 lg:px-20 px-10">
+            <div class="flex items-center justify-center">
+                <div>
+                    <img src="" alt="" class="product-img-detail">
+                </div>
+            </div>
+            <div class="flex flex-col gap-5">
+                <div>
+                    <div>
+                        <h2 class="text-[blue] font-semibold lg:text-lg text-base mb-2">Cầu lông </h2>
+                    </div>
+                    <h1 class="lg:text-4xl text-2xl font-semibold product-name"></h1>
+                    <div class="my-3">
+                        <p class="lg:text-base text-sm product-code"><strong>Mã vợt:</strong></p>
+                    </div>
+                </div>
+                <div class="lg:py-5 border-b border-t">
+                    <span class="text-[red] font-bold lg:text-2xl text-base product-price"></span>
+                </div>
+                <div>
+                    <div>
+                        <div>
+                            <span class="flex gap-2 lg:text-base text-sm"><strong>Màu sắc:</strong>
+                                <p class="product-color"></p>
+                            </span>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <span class="flex gap-2 lg:text-base text-sm"><strong>Kích thước:</strong>
+                                <p class="product-size"></p>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="py-5 border-b border-t border-black">
+                    <h2 class="font-semibold">Còn hàng <em class="text-[#8c8c8c]">Chọn mẫu sản phẩm còn hàng</em></h2>
+                    <div>
+                        <span class="flex gap-2">
+                            <strong>Sản phẩm còn:</strong>
+                            <p class="product-inventory"></p>
+                        </span>
+                        <div class="flex items-center gap-5 my-3">
+                            <input type="number" value="1" min="1" max="99"
+                                class="w-16 py-2 px-3 border border-black focus:outline-none rounded-md">
+                            <button class="button-cart">THÊM
+                                VÀO GIỎ</button>
+                            <button class="button-cart">GỌI
+                                NGAY</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="pb-5 border-b border-black">
+                    <h2 class="font-semibold">Chi nhánh còn hàng</h2>
+                    <div class="mt-3">
+                        <ul class="text-sm flex flex-col gap-5 overflow-auto max-h-48">
+                            <li class="flex">
+                                <input id="op1" type="radio" class="mr-2">
+                                <label for="op1" class="flex flex-col">
+                                    <span>HÀ NỘI 1,</span>
+                                    <span>09 3636 363636,</span>
+                                    <span>KHO SỐ 10 , SỐ NHÀ 84 KHU 7 , THỊ TRẤN TRẠM TRÔI</span>
+                                </label>
+                            </li>
+                            <li class="flex">
+                                <input id="op1" type="radio" class="mr-2">
+                                <label for="op1" class="flex flex-col">
+                                    <span>HCM 1,</span>
+                                    <span>09 3636 363636,</span>
+                                    <span>Lô 11-6, Cụm 4, Đường CN13, Nhóm Công nghiệp 11, khu Công Nghiệp</span>
+                                </label>
+                            </li>
+                            <li class="flex">
+                                <input id="op1" type="radio" class="mr-2">
+                                <label for="op1" class="flex flex-col">
+                                    <span>HÀ NỘI SR,</span>
+                                    <span>09 3636 363636,</span>
+                                    <span>42 Miếu Đầm</span>
+                                </label>
+                            </li>
+                            <li class="flex">
+                                <input id="op1" type="radio" class="mr-2">
+                                <label for="op1" class="flex flex-col">
+                                    <span>HCM Mizuno 707,</span>
+                                    <span>09 3636 363636,</span>
+                                    <span>707 Đường 3 Tháng 2</span>
+                                </label>
+                            </li>
+                            <li class="flex">
+                                <input id="op1" type="radio" class="mr-2">
+                                <label for="op1" class="flex flex-col">
+                                    <span>SR HCM Quận 1,</span>
+                                    <span>09 3636 363636,</span>
+                                    <span>188 Trần Quang Khải</span>
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="bg-[#E5E5E5]">
+            <div class="py-10 lg:px-20 px-10">
+                <div class="py-5 border-b border-black relative grid grid-cols-1 lg:grid-cols-4 gap-2">
+                    <button class="btnDetail lg:text-center text-left">Thông tin sản phẩm</button>
+                    <button class="btnDetail lg:text-center text-left">Hướng dẫn chọn sản phẩm/chọn size</button>
+                    <button class="btnDetail lg:text-center text-left">Feedback khách hàng</button>
+                    <button class="btnDetail lg:text-center text-left">Đánh giá sản phẩm</button>
+                </div>
+                <div class="flex flex-col gap-5 my-5 lg:text-sm text-[13px]">
+                    <p class="des1"></p>
+                    <p class="des2"></p>
+                    <p>*Thông số kĩ thuật: </p>
+                    <ul class="ml-5 flex flex-col gap-2">
+                        <li class="list-disc model"></li>
+                        <li class="list-disc text-color"></li>
+                        <li class="list-disc length"></li>
+                        <li class="list-disc weight"></li>
+                        <li class="list-disc perimeter"></li>
+                        <li class="list-disc stiffness"></li>
+                        <li class="list-disc head-weight"></li>
+                        <li class="list-disc pound"></li>
+                        <li class="list-disc material"></li>
+                    </ul>
+                    <p>* Công nghệ: </p>
+                    <ul class="ml-5 flex flex-col gap-2">
+                        <li class="list-disc tech1"></li>
+                        <li class="list-disc tech2"></li>
+                        <li class="list-disc tech3"></li>
+                        <li class="list-disc tech4"></li>
+                    </ul>
+                    <p>* Tính năng:</p>
+                    <p class="feature"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class=" bg-white footer-shadow second-font text-sm">
+            <div class="grid sm:grid-cols-3">
+                <div class="sm:col-span-2">
+                    <div class="sm:grid sm:grid-cols-3 p-5 gap-5 flex flex-col">
+                        <div>
+                            <div>
+                                <a href=""><img src="./assets/img/ft-logo.webp" alt="" class="w-[200px] mb-5"></a>
+                            </div>
+                            <div class="flex gap-2">
+                                <i class="fa-solid fa-house leading-8"></i>
+                                <span>
+                                    <p class="mb-2 leading-8"><b>TRỤ SỞ:</b> 42 Miếu Đầm, Mễ Trì, Nam Từ Liêm, TP. Hà
+                                        Nội
+                                    </p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 1:</b> 188BIS TRẦN QUANG KHẢI, TÂN ĐỊNH,
+                                        QUẬN
+                                        1,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 2:</b> Số 707 Đường 3 tháng 2, Phường 6,
+                                        Quận
+                                        10,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>GIỜ MỞ CỬA:</b> 09:00 đến 21:00</p>
+                                </span>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-phone"></i>
+                                <a href="" class="ml-2 navlink">036 3636 3636</a>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-envelope"></i>
+                                <a href="" class="ml-2 navlink">Lienhe@nhom2.vn</a>
+                            </div>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">Dịch vụ khách hàng</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Giới thiệu</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách bảo mật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Điều khoản dịch vụ</a></li>
+                                <li class="py-2"><a href="" class="navlink">Hướng dẫn thanh toán</a></li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">NHÓM SẢN PHẨM</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm khuyến mãi</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm nổi bật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Tất cả sản phẩm</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-5 bg-[#f6f6f6] text-center text-base">
+                    <div class="pb-5 border-b border-[#ccc] mb-[30px]">
+                        <h4 class="font-bold uppercase mb-[30px]">Like MIZUNO trên mạng xã hội</h4>
+                        <div>
+                            <a href="" class="social mr-2"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="" class="social"><i class="fa-brands fa-youtube"></i></a>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="font-bold uppercase mb-[30px]">ĐĂNG KÝ NHẬN THÔNG TIN MỚI TỪ MIZUNO</h4>
+                        <form action="" method="post">
+                            <div class="relative">
+                                <input type="text" placeholder="Nhập email của bạn tại dây ...."
+                                    class="outline-none w-full p-2 text-xs border border-[#ccc]">
+                                <span class="absolute whitespace-nowrap text-white bg-black right-0 bottom-[1px]">
+                                    <button class="uppercase p-1 text-base">Đăng ký</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+<script src="./index.js"></script>
+<script src="./chitiet.js"></script>
+
+</html>

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/img/favicon.webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./output.css">
+    <title>Mizuno</title>
+</head>
+
+<body>
+    <header class="sticky">
+        <div class="flex justify-between items-center bg-[#F6F6F6] border-b-2 border-black px-3 py-2">
+            <div class="w-[100px]">
+                <a href="./index.html"><img src="./assets/img/logo.png" alt=""></a>
+            </div>
+            <div id="toggleMobile" class="lg:hidden text-3xl cursor-pointer">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+            <ul class="font-bold overflow-x-auto lg:flex hidden" id="navList">
+                <li><a href="./index.html" class="ml-5 navlink">Trang chủ</a></li>
+                <li><a href="./gioithieu.html" class="ml-5 navlink">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="ml-5 navlink">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="ml-5 navlink">Liên hệ</a></li>
+            </ul>
+        </div>
+        <!-- Nav mobile -->
+        <div id="mobileMenu"
+            class="lg:hidden absolute top-0 min-h-screen left-0 right-0 bg-[#f6f6f6] border-2 border-black z-100 overflow-y-auto">
+            <div id="closeMobileInside" class="text-3xl cursor-pointer absolute top-3 right-3">
+                <i class="fa-solid fa-times"></i>
+            </div>
+            <ul class="font-bold">
+                <li><a href="./index.html" class="block py-2 px-4">Trang chủ</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Giới thiệu</a></li>
+                <li><a href="./thongtin.html" class="block py-2 px-4">Thông tin</a></li>
+                <li><a href="./lienhe.html" class="block py-2 px-4">Liên hệ</a></li>
+            </ul>
+        </div>
+    </header>
+    <section>
+        <div class="p-3 text-sm">
+            <a href="./index.html" class="navlink">
+                <i class="fa-solid fa-house leading-8"></i>
+                Trang chủ /
+            </a>
+            <strong>Giới thiệu</strong>
+        </div>
+        <div class="pb-[30px]">
+            <img src="./assets/img/bannergioithieu.webp" alt="">
+        </div>
+    </section>
+    <div>
+        <div class="lg:px-40 lg:py-10 p-5">
+            <div>
+                <h1 class="text-3xl mb-3">Giới thiệu</h1>
+                <div class="flex flex-col gap-5">
+                    <p class="font-semibold"><span>CÔNG TY CỔ PHẦN MIDOMAX VIỆT NAM </span></p>
+                    <ul class="ml-5">
+                        <li class="list-disc"><b>Trụ sở chính: </b>
+                            42 Miếu Đầm, Mễ Trì, Hà Nội.
+                        </li>
+                        <li class="list-disc">
+                            <span>
+                                <strong>SĐT: </strong>
+                                <strong>036 3636 3636</strong>
+                            </span>
+                            <br>
+                            <span>
+                                <strong>Hệ thống Showroom và đại lý: <a href="" class="underline">XEM TẠI
+                                        ĐÂY</a></strong>
+                            </span>
+                        </li>
+                    </ul>
+                    <ul class="ml-5">
+                        <li class="list-disc"><b>Email: </b>
+                            lienhe@nhom2.vn / baohanh@nhom2.vn
+                        </li>
+                        <li class="list-disc">
+                            <span>
+                                <strong>Fanpage: </strong>
+                                Facebook.com/MizunoVietnam
+                            </span>
+                        </li>
+                    </ul>
+                    <p><strong><span>MIDOMAX LÀ AI?</span></strong></p>
+                    <p>
+                        <span>
+                            MIDOMAX tên đầy đủ là Công ty Cổ phần Midomax Việt Nam, chuyên phân phối và cung ứng các
+                            sản phẩm, dụng cụ, thời trang chính hãng. Chúng tôi tự hào là nhà phân phối độc quyền của
+                            thương hiệu thể thao số 1 Nhật Bản MIZUNO tại Việt Nam. Hiện tại, Midomax đang phân phối và
+                            bán lẻ các sản phẩm của Mizuno đầy đủ các bộ môn như Bóng đá, Bóng chuyền, Bóng bàn, Cầu
+                            lông, Chạy bộ, Tennis, Goft và sẽ tiếp tục mở rộng thêm nhiều bộ môn mới.
+                        </span>
+                    </p>
+                    <hr>
+                    <p><strong><span>SỨ MỆNH CỦA MIDOMAX?</span></strong></p>
+                    <p>
+                        <span>
+                            Sứ mệnh của công ty là quảng bá thương hiệu MIZUNO Nhật Bản và đưa các sản phẩm chính hãng,
+                            chất lượng quốc tế đến tay người chơi với giá tốt nhất.
+                        </span>
+                    </p>
+                    <hr>
+                    <p><strong><span>TẦM NHÌN CỦA CÔNG TY</span></strong></p>
+                    <p>
+                        <span>
+                            MIDOMAX là 1 công ty trẻ. Hiện tại, chúng tôi bé nhỏ. 5 năm sau, chắc chắn chúng tôi sẽ lớn
+                            và mạnh. 10 năm sau, MIDOMAX xin hứa sẽ đưa MIZUNO trở thành thương hiệu thể thao hàng đầu
+                            tại Việt Nam.
+                        </span>
+                    </p>
+                    <hr>
+                    <p><strong><span>KHÁCH HÀNG CỦA MIDOMAX LÀ AI?</span></strong></p>
+                    <p>
+                        <span>Triết lý của MIDOMAX:
+                            <strong><em>“Khách hàng KHÔNG phải thượng đế, khách hàng là BẠN"</em></strong>
+                            <br>
+                            Đối tượng phục vụ của Midomax chính là những người yêu thể thao trên toàn Việt Nam.
+                        </span>
+                    </p>
+                    <hr>
+                    <p><strong><span>ĐIỀU KIỆN LÀM ĐẠI LÝ/ĐẠI LÝ ĐỘC QUYỀN CỦA MIDOMAX</span></strong></p>
+                    <p>
+                        <span>
+                            Midomax luôn rộng cửa chào đón và hợp tác với tất cả các cửa hàng, shop online có nhu cầu
+                            trở thành đại lý hoặc đại lý độc quyền của Mizuno tại Việt Nam.
+                        </span>
+                    </p>
+                    <p>
+                        <span>Các đại lý của Midomax được hưởng nhiều chính sách ưu đãi cũng như hỗ trợ từ phía công ty.
+                            Mọi thông tin chi tiết, xin vui lòng liên hệ vào số Hotline
+                        </span>
+                    </p>
+                    <p><span>Khu vực miền Bắc: </span><strong>036 3636 363636</strong></p>
+                    <p><span>Khu vực miền Nam: </span><strong>036 3636 363636</strong></p>
+                    <p><span>Hotline: </span><strong>096 3636 363636</strong></p>
+                    <hr>
+                    <p><strong><span>CHÍNH SÁCH CHO CỘNG TÁC VIÊN</span></strong></p>
+                    <p>
+                        <span>
+                            MIDOMAX khuyến khích mở rộng mạng lưới cộng tác viên (CTV) là những huấn luyện viên, thầy
+                            giáo, vận động viên chuyên nghiệp hay nghiệp dư có mong muốn kiếm thêm thu nhập từ việc bán
+                            sản phẩm MIZUNO. CTV được hưởng nhiều chính sách ưu đãi đặc biệt.
+                        </span>
+                    </p>
+                    <p>
+                        <span>Mọi thông tin chi tiết, xin vui lòng liên hệ vào số Hotline:</span>
+                        <span class="text-[red]"><strong>096 3636 363636/096 6363 636363</strong></span>
+                    </p>
+                    <hr>
+                    <p><span><strong>LIÊN HỆ VỚI MIDOMAX THẾ NÀO?</strong></span></p>
+                    <p>
+                        <span>Mọi thắc mắc hỏi đáp hoặc muốn biết thêm chi tiết, xin vui lòng liên hệ trực tiếp với
+                            chúng
+                            tôi:
+                        </span>
+                    </p>
+                    <p><span><strong>CÔNG TY CỔ PHẦN MIDOMAX VIỆT NAM</strong></span></p>
+                    <ul class="ml-5">
+                        <li class="list-disc"><span>ĐỊA CHỈ: 42 MIẾU ĐẦM, QUẬN TỪ LIÊM, TP HÀ NỘI</span></li>
+                        <li class="list-disc"><span>ĐIỆN THOẠI: <strong>096 3636 363636/096 6363 636363</strong></span>
+                        </li>
+                        <li class="list-disc"><span>VP ĐẠI DIỆN: 188BIS TRẦN QUANG KHẢI, TÂN ĐỊNH, QUẬN 1, TP HCM</span>
+                        </li>
+                        <li class="list-disc"><span>ĐIỆN THOẠI: <strong>093 3636 363636</strong></span></li>
+                        <li class="list-disc"><span>EMAIL: LIENHE@NHOM2.VN</span></li>
+                        <li class="list-disc"><span>FANPAGE: FACEBOOK.COM/MIZUNOVIETNAM</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class=" bg-white footer-shadow second-font text-sm">
+            <div class="grid sm:grid-cols-3">
+                <div class="sm:col-span-2">
+                    <div class="sm:grid sm:grid-cols-3 p-5 gap-5 flex flex-col">
+                        <div>
+                            <div>
+                                <a href=""><img src="./assets/img/ft-logo.webp" alt="" class="w-[200px] mb-5"></a>
+                            </div>
+                            <div class="flex gap-2">
+                                <i class="fa-solid fa-house leading-8"></i>
+                                <span>
+                                    <p class="mb-2 leading-8"><b>TRỤ SỞ:</b> 42 Miếu Đầm, Mễ Trì, Nam Từ Liêm, TP. Hà
+                                        Nội
+                                    </p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 1:</b> 188BIS TRẦN QUANG KHẢI, TÂN ĐỊNH,
+                                        QUẬN
+                                        1,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>Chi nhánh HCM 2:</b> Số 707 Đường 3 tháng 2, Phường 6,
+                                        Quận
+                                        10,
+                                        TP HCM</p>
+                                    <p class="mb-2 leading-8"><b>GIỜ MỞ CỬA:</b> 09:00 đến 21:00</p>
+                                </span>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-phone"></i>
+                                <a href="" class="ml-2 navlink">036 3636 3636</a>
+                            </div>
+                            <div class="mb-2">
+                                <i class="fa-solid fa-envelope"></i>
+                                <a href="" class="ml-2 navlink">Lienhe@nhom2.vn</a>
+                            </div>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">Dịch vụ khách hàng</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Giới thiệu</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách bảo mật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Điều khoản dịch vụ</a></li>
+                                <li class="py-2"><a href="" class="navlink">Hướng dẫn thanh toán</a></li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3 class="font-bold uppercase">NHÓM SẢN PHẨM</h3>
+                            <ul>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm khuyến mãi</a></li>
+                                <li class="py-2"><a href="" class="navlink">Chính sách đổi trả</a></li>
+                                <li class="py-2"><a href="" class="navlink">Sản phẩm nổi bật</a></li>
+                                <li class="py-2"><a href="" class="navlink">Tất cả sản phẩm</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-5 bg-[#f6f6f6] text-center text-base">
+                    <div class="pb-5 border-b border-[#ccc] mb-[30px]">
+                        <h4 class="font-bold uppercase mb-[30px]">Like MIZUNO trên mạng xã hội</h4>
+                        <div>
+                            <a href="" class="social mr-2"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="" class="social"><i class="fa-brands fa-youtube"></i></a>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="font-bold uppercase mb-[30px]">ĐĂNG KÝ NHẬN THÔNG TIN MỚI TỪ MIZUNO</h4>
+                        <form action="" method="post">
+                            <div class="relative">
+                                <input type="text" placeholder="Nhập email của bạn tại dây ...."
+                                    class="outline-none w-full p-2 text-xs border border-[#ccc]">
+                                <span class="absolute whitespace-nowrap text-white bg-black right-0 bottom-[1px]">
+                                    <button class="uppercase p-1 text-base">Đăng ký</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+<script src="./index.js"></script>
+
+</html>
