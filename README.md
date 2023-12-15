@@ -5,7 +5,7 @@
 - Base on: https://www.mizuno.com.vn/
 
 - Guide:
-  + Step 1: Pull source về.
+  + Step 1: Clone code về.
   + Step 2: Nhấn tổ hợp Ctrl + Shift + ` (cửa sổ Terminal).
   + Step 3: Gõ npm i.
   + Step 4: Click chuột phải vào folder "backend", chọn "Open in Integrated Terminal".
