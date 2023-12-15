@@ -1104,7 +1104,7 @@ html {
 
 .navlink {
   position: relative;
-  z-index: -1;
+  z-index: 0;
 }
 
 .navlink::after {
@@ -1154,6 +1154,94 @@ html {
 
 #mobileMenu.active {
   transform: translateX(0);
+}
+
+.view-cart-btn {
+  position: fixed;
+  top: -100px;
+  right: 20px;
+  font-size: 16px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+  width: 50px;
+  transition: top 0.3s;
+}
+
+.sidebar {
+  height: 100%;
+  width: 0;
+  max-width: 500px;
+  opacity: 0;
+  visibility: hidden;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: max-width 0.5s, opacity 0.5s, visibility 0.5s;
+  color: white;
+  padding: 60px 10px 30px 10px;
+}
+
+.sidebar.open {
+  max-width: 500px;
+  opacity: 1;
+  visibility: visible;
+}
+
+.close-btn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.sidebar h2 {
+  text-align: center;
+}
+
+.cart-items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart-item.enlarged {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.cart-item img {
+  width: 100px;
+  height: 100px;
+}
+
+.buy-now-button{
+  margin: 0 auto;
+}
+
+.total-amount {
+  text-align: right;
+}
+
+.buy-now-button {
+  display: block;
+  margin: 0 auto;
+  color: #000;
+  background-color: #fff;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.buy-now-button:hover{
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #fff;
+  transition: 0.3s all;
 }
 
 .hover\:scale-105:hover {
@@ -1263,3 +1351,4 @@ html {
     line-height: 1.25rem;
   }
 }
+

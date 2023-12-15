@@ -165,6 +165,14 @@
             </div>
         </div>
     </footer>
+
+    <button id="viewCartBtn" class="view-cart-btn" onclick="toggleCart()">Xem giỏ hàng</button>
+
+    <div id="cartSidebar" class="sidebar">
+        <button class="close-btn" onclick="closeCart()">×</button>
+        <h2>Giỏ hàng của bạn</h2>
+        <ul id="cartItems" class="cart-items"></ul>
+    </div>
 </body>
 
 <script src="./index.js"></script>
