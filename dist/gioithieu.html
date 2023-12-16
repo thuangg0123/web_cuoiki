@@ -14,6 +14,11 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <title>Mizuno</title>
 </head>
 
@@ -26,7 +31,7 @@
             <div id="toggleMobile" class="lg:hidden text-3xl cursor-pointer">
                 <i class="fa-solid fa-bars"></i>
             </div>
-            <ul class="font-bold overflow-x-auto lg:flex hidden" id="navList">
+            <ul class="font-bold lg:flex hidden" id="navList">
                 <li><a href="./index.html" class="ml-5 navlink">Trang chủ</a></li>
                 <li><a href="./gioithieu.html" class="ml-5 navlink">Giới thiệu</a></li>
                 <li><a href="./thongtin.html" class="ml-5 navlink">Thông tin</a></li>
@@ -55,8 +60,19 @@
             </a>
             <strong>Giới thiệu</strong>
         </div>
-        <div class="pb-[30px]">
-            <img src="./assets/img/bannergioithieu.webp" alt="">
+        <div class="owl-carousel pb-[30px]">
+            <div class="item">
+                <img src="./assets/img/banner1.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="./assets/img/banner-slide2" alt="">
+            </div>
+            <div class="item">
+                <img src="./assets/img/bannergioithieu.webp" alt="">
+            </div>
+            <div class="item">
+                <img src="./assets/img/banner4.webp" alt="">
+            </div>
         </div>
     </section>
     <div>
@@ -261,6 +277,17 @@
         </div>
     </footer>
 </body>
+
+<script>
+    $(document).ready(function () {
+        $(".owl-carousel").owlCarousel({
+            items: 1,
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+        });
+    });
+</script>
 
 <script src="./index.js"></script>
 
