@@ -244,5 +244,3 @@ const updateCartUI = () => {
     cartItemsContainer.appendChild(buyNowButton);
 }
 updateCartUI();
-
-// buy now

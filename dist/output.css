@@ -726,6 +726,10 @@ video {
   top: 0.75rem;
 }
 
+.z-\[-1\] {
+  z-index: -1;
+}
+
 .my-3 {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
@@ -868,10 +872,6 @@ video {
 
 .overflow-hidden {
   overflow: hidden;
-}
-
-.overflow-x-auto {
-  overflow-x: auto;
 }
 
 .overflow-y-auto {
@@ -1220,7 +1220,7 @@ html {
   height: 100px;
 }
 
-.buy-now-button{
+.buy-now-button {
   margin: 0 auto;
 }
 
@@ -1237,7 +1237,7 @@ html {
   font-weight: bold;
 }
 
-.buy-now-button:hover{
+.buy-now-button:hover {
   color: #fff;
   background-color: #000;
   border: 1px solid #fff;

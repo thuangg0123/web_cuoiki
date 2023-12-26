@@ -142,6 +142,7 @@ html {
 .sidebar h2 {
     text-align: center;
 }
+
 .cart-items {
     list-style-type: none;
     padding: 0;
@@ -159,7 +160,7 @@ html {
     height: 100px;
 }
 
-.buy-now-button{
+.buy-now-button {
     margin: 0 auto;
 }
 
@@ -176,7 +177,7 @@ html {
     font-weight: bold;
 }
 
-.buy-now-button:hover{
+.buy-now-button:hover {
     color: #fff;
     background-color: #000;
     border: 1px solid #fff;

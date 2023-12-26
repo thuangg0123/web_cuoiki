@@ -15,6 +15,7 @@ const fetchProductDetails = (productId) => {
     fetch(API_URL)
         .then(response => response.json())
         .then(productData => {
+            console.log("Dữ liệu API trả về:", productData);
             renderProductDetails(productData);
         })
         .catch(error => {
